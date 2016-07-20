@@ -1,0 +1,36 @@
+
+div{
+	width: 80px;
+	height: 80px;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.cuadro1{
+	background-color: #ee3e64;
+}
+.cuadro2{
+	background-color: purple;
+}
+
+.cuadro3{
+	background-color: #b7d84b;
+}
+.cuadro4{
+	background-color: green;
+}
+#relative{
+	position: relative;
+	left: 300px;
+	margin: 40px
+}
+
+.absolute{
+	position: absolute;
+	left: 300px;
+}
+
+
+
+
